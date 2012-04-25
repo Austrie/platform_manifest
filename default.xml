@@ -12,6 +12,7 @@
   <remote  name="cm"
            fetch="https://github.com/CyanogenMod/"
            revision="ics" />
+           
   <remote name="mantera"
            fetch="git://github.com/SpeedDevlopment/" />
 

@@ -14,11 +14,11 @@
            revision="ics" />
            
   <remote name="mantera"
-           fetch="git://github.com/SpeedDevelopment/"
+           fetch="git://github.com/SpeedDevelopment/" />
            revision="ics" />
            
   <remote name="realmantera"
-           fetch="git://github.com/mantera/"
+           fetch="git://github.com/mantera/" />
            revision="ics" />
 
   <default remote="aosp"

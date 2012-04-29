@@ -15,9 +15,11 @@
            
   <remote name="mantera"
            fetch="git://github.com/SpeedDevlopment/" />
+           revision="ics" />
            
   <remote name="realmantera"
            fetch="git://github.com/mantera/" />
+           revision="ics" />
 
   <default remote="aosp"
            sync-j="4" />

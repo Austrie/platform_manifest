@@ -14,7 +14,7 @@
            revision="ics" />
            
   <remote name="mantera"
-           fetch="git@github.com:SpeedDevlopment/"
+           fetch="https://github.com/SpeedDevlopment/"
            revision="ics" />
            
   <remote name="realmantera"

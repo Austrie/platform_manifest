@@ -35,6 +35,7 @@
   <project path="cts" name="platform/cts" remote="aosp" revision="refs/tags/android-4.0.4_r1.2" />
   <project path="dalvik" name="platform/dalvik" remote="aosp" revision="refs/tags/android-4.0.4_r1.2" />
   <project path="development" name="AOKP/platform_development" remote="gh" revision="ics" />
+  <project path="device/moto/triumph" name="android_device_motorola_triumph" remote="mantera" revision="ics" />
   <project path="device/acer/a500" name="AOKP/device_acer_a500" remote="gh" revision="ics" />
   <project path="device/amazon/otter" name="AOKP/device_amazon_otter" remote="gh" revision="ics" />
   <project path="device/asus/tf101" name="AOKP/device_asus_tf101" remote="gh" revision="ics" />
@@ -293,8 +294,7 @@
   <project path="system/media" name="platform/system/media" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="system/netd" name="android_system_netd" remote="mantera" revision="ics" />
   <project path="system/vold" name="AOKP/system_vold" remote="gh" revision="ics" />
-  <project path="vendor/motorola/triumph" name="android_vendor_motorola_triumph" remote="mantera" revision="ics" />
-
+  <project path="vendor/moto/triumph" name="android_vendor_motorola_triumph" remote="mantera" revision="ics" />
 
   <project path="vendor/samsung" name="AOKP/vendor_samsung" remote="gh" revision="ics" />
   <project path="vendor/aokp" name="vendor_aokp" remote="mantera" revision="ics" />
